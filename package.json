@@ -1,7 +1,15 @@
 {
   "name": "nextjs-tailwind-boilerplate",
   "version": "0.1.0",
-  "private": true,
+  "description": "Complete and ready to use boilerplate of Nextjs with TailwindCSS",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/syauqy/nextjs-tailwind-boilerplate",
+    "type": "git"
+  },
+  "author": "Syauqy Aziz <syauqyaziz@gmail.com> (https://syauqy.dev)",
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
